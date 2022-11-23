@@ -1,2 +1,5 @@
-# Mein Lieblingscharakter
-Add a description of your character (~30-50 words) to the index.md file underneath the title. For this, you should write plain text, without any special formatting or GitHub flavoured markdown
+# Mein Lieblingscharakter - Findus
+## *mag die Muckler, 
+## *Kekse 
+## *und Peterson
+Findus ist der Kater von Peterson, einem alten Mann in Schweden der alleine in einem Haus im Wald wohnt.
